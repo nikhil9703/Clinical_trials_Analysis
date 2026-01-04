@@ -11,7 +11,10 @@ I have used the Clinical trails dataset from kaggle that has been mentioned in r
 
 
 # Columns used Clinical Trials
+
 clin_trials <-- Dataset
+
 clinical_trails_understanding_and_data_cleaning <-- ipynb file containing the data cleaning and transformation process 
+
 clinical_trails_Analysis_and_chart <-- ipynb file containing the Analysis regarding the dataset
 
