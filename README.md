@@ -19,22 +19,22 @@ clinical_trails_understanding_and_data_cleaning <-- ipynb file containing the da
 clinical_trails_Analysis_and_chart <-- ipynb file containing the Analysis regarding the dataset
 
 **Columns in Dataset**
-Organization 
-Full Name	
-Organization Class	
-Responsible Party	
-Brief Title	
-Full Title	
-Overall Status	
-Start Date	
-Standard Age	
-Conditions	
-Primary Purpose	
-Interventions	
-Intervention 
-Description	
-Study Type	
-Phases	
-Outcome Measure	
-Medical Subject Headings
-<img width="1089" height="21" alt="image" src="https://github.com/user-attachments/assets/7434edb2-46be-4449-84c8-b5c54454e8ac" />
+1. Organization 
+2. Full Name	
+3. Organization Class	
+4. Responsible Party	
+5. Brief Title	
+6. Full Title	
+7. Overall Status	
+8. Start Date	
+9. Standard Age	
+10. Conditions	
+11. Primary Purpose	
+12. Interventions	
+13. Intervention 
+14. Description	
+15. Study Type	
+16. Phases	
+17. Outcome Measure	
+18. Medical Subject Headings
+
